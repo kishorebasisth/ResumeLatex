@@ -1,0 +1,123 @@
+Bal Kishore Pandey Basisth
+Lüttfeld 15A-Zimmer nummer. 416
+Lemgo 32645
+Germany
+Phone: +4917631407584
+Email: kishore.basisth@gmail.com
+
+Objective
+A full time position in a creative and challenging environment in the field of
+computer science.
+
+Personal Information
+• Date/Place of birth : June 25, 1989 / India
+• Nationality: Indian
+• Languages: English, Hindi, Tamil and German(A1 Level)
+
+Education
+2010-May 2013 Halmstad University and Hochschule Ostwestfalen-Lippe
+Master of Science, Information Technology.
+
+This took place in two countries in collaboration with following universities:
+• Halmstad University, Sweden
+• Hochschule Ostwestfalen-Lippe, Germany
+
+2006-2010 Anna University, Chennai, India
+Bachelor of Technology, Information Technology.
+
+
+
+Projects, Thesis & Experience
+2012-May 2013 Master’s Thesis
+Ostwestfalen-Lippe University of Applied Sciences,Lemgo,Germany
+Visualization of Wireless Sensor Data on Apple IOS Devices
+
+The vital goal of the thesis work was to develop a web services to communicate
+with different microcontoller inorder to access the sensor data and visualize
+the same on an Objective-c client. The thesis work cotained the following tasks:
+• Evaluated the status in the field ”Internet of things” with respect to sensor
+data visualization.
+• Described a software architecture which is transparent with respect to the
+particular micro-controller used.
+• Designed a URI structure of RESTful web service which is universal to
+variety of sensor classes.
+• Developed a Javascript based web server using node.js and express & a
+database using mongoDB, to host the data from sensor.
+• Compared the developed model with OPC-UA.
+• Finally a Objective-C client, running on an iOS device to consume the
+services and visualize the value from sensor, was designed.
+
+
+June-September Internship
+2012 Transcat PLM GmbH,Karlsruhe,Germany
+Conception of a SOA based Load Balancing solution for CATIA QChecker
+
+The internship consisted of following tasks:
+• Comparing the various existing load balancing solution that would cater the
+need and would fulfill the critieria.
+• Implemented SOAP based session handling on the AXIS ? server and client.
+• Tested the new architecture with various test cases.
+
+2012 Semester Project
+Ostwestfalen-Lippe University of Applied Sciences,Lemgo,Germany
+Development of a RESTful web service to access test and measurement instruments
+with SCPI interface
+
+The goal was to develop and deploy a RESTful web service, which allows user
+to interact with various test instrument connected either via USB, ethernet or
+GPIB interface. Python script was used to pass the SCPI comand to the test
+instrument. An GUI was developed using Java Swing, which made interaction
+easier.
+
+2012 Semester Project
+Ostwestfalen-Lippe University of Applied Sciences,Lemgo,Germany
+Statistical Parameter Estimation Using Narrowband and Wideband Sensors
+
+The idea behind the project was to compare the performance of Narrow
+band and Wide band sensor with respect to cognitive radio and increase the
+utilization of the spectrum efficiently. The project was simulated in Matlab.
+
+2011 Semester Project
+Halmstad university, Sweden
+Embedded system Programming using PIE
+
+Programmed a PIE(Platform for embedded system) using C to follow well
+specified paths from square to trajectory of various angles.
+
+2010 Bachelor's Thesis
+Anna university, Chennai, India
+Spread Method for Dividing the Outlay of Multicast Transmission.
+
+The main objective was to share the cost of Messages being sent and received
+by the nodes in a distributed and parallel environment. A method named as
+distributed Shapely Value mechanism was developed and simulated in C#.
+
+Technical Skills
+• Proficient programming skills: C, C#, JAVA, HTML, Javascript, SQL, XML & JQuery.
+• Basic programming skill : C++, Python, Objectice-C, JSON & MongoDB.
+• Specifications and Protocols : REST, SOAP & OPC-UA.
+• Servers: Aapche tomcat, GlassFish, Jetty and NGINX.
+• Frameworks: Aapche camel, Apache Maven, Axis 1 and 2.
+• IDE’s and SCM: Eclipse, Netbeans, Xcode and TFS.
+• Operating systems: Windows, Mac OSX10.2 & later and Ubuntu.
+• Softwares: Lotus Notes, MS office & LATEX.
+
+Relevant CourseWork
+Bachelor 
+Computer Networks, Operating Systems, Telecommunication System, Object
+Oriented Analysis and Design, Visual Programming, Network Programming
+and Management, Cryptography and Network Security, Embedded System,
+Data Warehousing and Mining, Enterprise Resource Planning.
+
+Master
+Signal Analysis and Representation, Multi-Variable Calculus, Image Analysis,
+Embedded System Programming, Modern Communication System and Networks,
+Wireless Communication System, Real-time Networking, Distributed
+Real Time Systems.
+
+Technical Area of Interest
+Software Development, Graphic User Interface Design, Testing, Wireless
+communication & Networks.
+
+Hobbies
+Music, Travelling and Cricket.
